@@ -1,0 +1,16 @@
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Documentos\PROGRAMACION\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Documentos\ILERNA\CONTENIDO ASIGNATURAS\PACS DESARROLLO\PROGRAMACION\PROGRAMACION 1 visual studio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Willy\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Willy\Documents\C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
